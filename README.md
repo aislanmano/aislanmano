@@ -3,10 +3,11 @@
 
 - 👨‍🏫 I'm teacher at UNIVAG
 - 🖥️ I'm DBA at PGE-MT
+- 🖥️ I'm Data Engineer at Ouncedata Consultoria e Tecnologia
 - 📃 I'm currently studying AI (Artificial Intelligence) at UNISINOS 
 - 👨🏿‍🏫 I'm a training instructor in BI, PowerBI, SQL Server, SSIS, SSAS
 - 📺 I publish about BI and ETL videos at Aislan Honorato - Youtube Channel
-- 👨🏿‍🎓 I'm currently learning Big Data, Artificial Intelligence, Image Processing, Computer Vision, Python, Data Storytelling, SQL Server Internals, Azure e AWS
+- 👨🏿‍🎓 I have projects in Big Data, Artificial Intelligence, Machine Learning, Image Processing, Computer Vision, Python, Data Storytelling, SQL Server, Azure e AWS
 - 💬 Ask me about @bi, @bigdata, @etl, @sql, @sqlserver, @powerbi, @qliview, @qliksense, @ssis, @pentaho, @analysisservices
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: In my vein runs the love for studying and music
